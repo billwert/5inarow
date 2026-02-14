@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premier League 5-in-a-Row Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <nav class="sidebar">
+            <div class="sidebar-section">
+                <h2>View</h2>
+                <div class="view-toggle">
+                    <button id="view-season" class="view-btn active">By Season</button>
+                    <button id="view-team" class="view-btn">By Team</button>
+                </div>
+            </div>
+            <div class="sidebar-section" id="season-nav">
+                <h2>Seasons</h2>
+                <ul id="season-list" class="season-list">
+                    <!-- Populated by JS -->
+                </ul>
+            </div>
+            <div class="sidebar-section" id="team-nav" style="display: none;">
+                <h2>Teams</h2>
+                <ul id="team-list" class="season-list">
+                    <!-- Populated by JS -->
+                </ul>
+            </div>
+        </nav>
+
+        <main class="main-content">
+            <header>
+                <h1>Premier League 5-in-a-Row Analyzer</h1>
+                <p class="subtitle" id="season-subtitle">Select a season</p>
+            </header>
+
+            <div class="table-container" id="season-view">
+                <table id="results-table">
+                    <thead>
+                        <tr id="header-row">
+                            <th class="team-header">Team</th>
+                        </tr>
+                    </thead>
+                    <tbody id="results-body">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="team-view" id="team-view" style="display: none;">
+                <div id="team-streaks-container">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <footer>
+                <div class="legend">
+                    <div class="legend-item">
+                        <div class="legend-box result-W">W</div>
+                        <span>Win</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-box result-D">D</div>
+                        <span>Draw</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-box result-L">L</div>
+                        <span>Loss</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-box result-W legend-streak">W</div>
+                        <span>5+ Win Streak</span>
+                    </div>
+                </div>
+                <p>Hover over cells for match details</p>
+            </footer>
+        </main>
+    </div>
+
+    <div id="tooltip" class="tooltip"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

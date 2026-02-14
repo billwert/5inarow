@@ -1,0 +1,605 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background: #1a1a2e;
+    color: #eee;
+    min-height: 100vh;
+}
+
+.app-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar navigation */
+.sidebar {
+    width: 200px;
+    background: #0f0f1a;
+    border-right: 2px solid #3d5a80;
+    padding: 1rem 0;
+    overflow-y: auto;
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
+
+.sidebar-section {
+    margin-bottom: 1rem;
+}
+
+.sidebar h2 {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: #8ab4f8;
+    border-bottom: 1px solid #2a2a4a;
+    margin-bottom: 0.5rem;
+}
+
+/* View toggle buttons */
+.view-toggle {
+    display: flex;
+    padding: 0.5rem;
+    gap: 0.25rem;
+}
+
+.view-btn {
+    flex: 1;
+    padding: 0.5rem;
+    border: none;
+    background: #2a2a4a;
+    color: #aaa;
+    cursor: pointer;
+    font-size: 0.85rem;
+    border-radius: 4px;
+    transition: all 0.15s;
+}
+
+.view-btn:hover {
+    background: #3d5a80;
+    color: #fff;
+}
+
+.view-btn.active {
+    background: #3d5a80;
+    color: #fff;
+    font-weight: 600;
+}
+
+.season-list {
+    list-style: none;
+}
+
+.season-list li {
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 3px solid transparent;
+    transition: all 0.15s;
+}
+
+.season-list li:hover {
+    background: #1a1a2e;
+    border-left-color: #3d5a80;
+}
+
+.season-list li.active {
+    background: #16213e;
+    border-left-color: #8ab4f8;
+}
+
+.season-list .season-name {
+    font-weight: 500;
+}
+
+.season-list .streak-count {
+    background: #2ecc71;
+    color: #000;
+    padding: 0.15rem 0.5rem;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    min-width: 24px;
+    text-align: center;
+}
+
+.season-list .streak-count.low {
+    background: #f1c40f;
+}
+
+.season-list .streak-count.zero {
+    background: #666;
+    color: #ccc;
+}
+
+/* Main content area */
+.main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+header {
+    background: #16213e;
+    padding: 1rem 2rem;
+    border-bottom: 3px solid #3d5a80;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.subtitle {
+    color: #8ab4f8;
+    margin-top: 0.25rem;
+    font-size: 0.95rem;
+}
+
+.table-container {
+    flex: 1;
+    overflow: auto;
+    padding: 1rem;
+}
+
+table {
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+
+th, td {
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #2a2a4a;
+}
+
+th {
+    background: #0f3460;
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.team-header {
+    position: sticky;
+    left: 30px;
+    z-index: 20;
+    background: #0f3460;
+    min-width: 180px;
+    text-align: left;
+}
+
+.team-name-header {
+    position: sticky;
+    left: 30px;
+    z-index: 20;
+    background: #0f3460;
+    min-width: 180px;
+    text-align: left;
+}
+
+.position-cell {
+    position: sticky;
+    left: 0;
+    z-index: 6;
+    background: #0f3460;
+    width: 30px;
+    min-width: 30px;
+    font-weight: 700;
+    color: #8ab4f8;
+}
+
+.team-cell {
+    position: sticky;
+    left: 30px;
+    background: #1a1a2e;
+    text-align: left;
+    font-weight: 500;
+    z-index: 5;
+    min-width: 180px;
+}
+
+.team-points {
+    color: #888;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-left: 0.5rem;
+}
+
+.matchweek-header {
+    min-width: 38px;
+    font-size: 0.8rem;
+}
+
+.result-cell {
+    width: 38px;
+    height: 32px;
+    font-weight: 700;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: transform 0.1s;
+    position: relative;
+    padding: 0.25rem;
+}
+
+.result-cell:hover {
+    transform: scale(1.15);
+    z-index: 100;
+}
+
+/* Result colors */
+.result-W {
+    background: #2ecc71;
+    color: #000;
+}
+
+.result-D {
+    background: #f1c40f;
+    color: #000;
+}
+
+.result-L {
+    background: #e74c3c;
+    color: #fff;
+}
+
+.result-empty {
+    background: #2a2a4a;
+    color: #666;
+}
+
+/* 5+ win streak highlighting */
+.streak {
+    box-shadow: inset 0 0 0 3px #fff, 0 0 8px rgba(46, 204, 113, 0.9);
+    position: relative;
+}
+
+.streak-start {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.streak-end {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+/* Row hover effect */
+tbody tr:hover .team-cell,
+tbody tr:hover .position-cell {
+    background: #252540;
+}
+
+/* Footer and legend */
+footer {
+    background: #16213e;
+    padding: 1rem;
+    border-top: 1px solid #2a2a4a;
+}
+
+.legend {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.legend-box {
+    width: 24px;
+    height: 24px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+
+.legend-streak {
+    box-shadow: inset 0 0 0 2px #fff, 0 0 6px rgba(46, 204, 113, 0.8);
+}
+
+footer p {
+    text-align: center;
+    color: #888;
+    font-size: 0.85rem;
+}
+
+/* Tooltip */
+.tooltip {
+    position: fixed;
+    background: #16213e;
+    border: 2px solid #3d5a80;
+    border-radius: 6px;
+    padding: 0.6rem 0.8rem;
+    font-size: 0.9rem;
+    z-index: 1000;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    max-width: 250px;
+}
+
+.tooltip.visible {
+    opacity: 1;
+}
+
+.tooltip .opponent {
+    font-weight: 600;
+    color: #8ab4f8;
+}
+
+.tooltip .venue {
+    color: #aaa;
+    font-size: 0.8rem;
+}
+
+.tooltip .score {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-top: 0.25rem;
+}
+
+.tooltip .score.win {
+    color: #2ecc71;
+}
+
+.tooltip .score.draw {
+    color: #f1c40f;
+}
+
+.tooltip .score.loss {
+    color: #e74c3c;
+}
+
+/* Loading state */
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    color: #888;
+}
+
+/* Team view styles */
+.team-view {
+    flex: 1;
+    overflow: auto;
+    padding: 1rem;
+}
+
+.team-streaks-header {
+    margin-bottom: 1.5rem;
+}
+
+.team-streaks-header h2 {
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.team-streaks-header .stats {
+    color: #8ab4f8;
+    font-size: 0.95rem;
+}
+
+.streak-card {
+    background: #16213e;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid #2ecc71;
+}
+
+.streak-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+
+.streak-season {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+.streak-length {
+    background: #2ecc71;
+    color: #000;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.streak-matches {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.streak-match {
+    background: #2ecc71;
+    color: #000;
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 70px;
+}
+
+.streak-match .opponent {
+    font-weight: 600;
+    font-size: 0.8rem;
+    margin-bottom: 0.15rem;
+}
+
+.streak-match .score {
+    font-weight: 700;
+}
+
+.streak-match .venue {
+    font-size: 0.7rem;
+    opacity: 0.8;
+}
+
+.no-streaks {
+    color: #888;
+    font-style: italic;
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Streak frequency bar chart */
+.streak-chart {
+    background: #16213e;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.chart-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 80px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #2a2a4a;
+}
+
+.chart-bar-container {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+    min-width: 0;
+}
+
+.chart-bar {
+    width: 100%;
+    background: #2a2a4a;
+    border-radius: 2px 2px 0 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    transition: background 0.15s;
+    min-height: 4px;
+}
+
+.chart-bar.has-streak {
+    background: #2ecc71;
+}
+
+.chart-bar:hover {
+    filter: brightness(1.2);
+}
+
+.bar-value {
+    color: #000;
+    font-weight: 700;
+    font-size: 0.7rem;
+    padding-top: 2px;
+}
+
+.chart-label {
+    position: absolute;
+    bottom: -22px;
+    font-size: 0.6rem;
+    color: #888;
+    white-space: nowrap;
+}
+
+/* Responsive adjustments */
+@media (max-width: 800px) {
+    .sidebar {
+        width: 160px;
+    }
+
+    .sidebar h2 {
+        font-size: 1rem;
+    }
+
+    .season-list li {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.9rem;
+    }
+
+    h1 {
+        font-size: 1.2rem;
+    }
+
+    .team-cell, .team-header, .team-name-header {
+        min-width: 120px;
+        font-size: 0.85rem;
+        left: 24px;
+    }
+
+    .position-cell {
+        width: 24px;
+        min-width: 24px;
+        font-size: 0.8rem;
+    }
+
+    .result-cell {
+        width: 32px;
+        height: 26px;
+        font-size: 0.65rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .app-container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+        border-right: none;
+        border-bottom: 2px solid #3d5a80;
+        max-height: 40vh;
+    }
+
+    .season-list {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0.5rem;
+    }
+
+    .season-list li {
+        flex: 0 0 auto;
+        padding: 0.4rem 0.6rem;
+        border-left: none;
+        border-bottom: 2px solid transparent;
+        font-size: 0.8rem;
+    }
+
+    .season-list li.active {
+        border-bottom-color: #8ab4f8;
+        border-left-color: transparent;
+    }
+}

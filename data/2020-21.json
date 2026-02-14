@@ -1,0 +1,4669 @@
+{
+  "season": "2020-21",
+  "teams": [
+    "Arsenal",
+    "Aston Villa",
+    "Brighton & Hove Albion",
+    "Burnley",
+    "Chelsea",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Leeds United",
+    "Leicester City",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Newcastle United",
+    "Sheffield United",
+    "Southampton",
+    "Tottenham Hotspur",
+    "West Bromwich Albion",
+    "West Ham United",
+    "Wolverhampton"
+  ],
+  "results": {
+    "Arsenal": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "D",
+      "W",
+      "D",
+      "L",
+      "W",
+      "D",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "Aston Villa": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L",
+      "D",
+      "D",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W",
+      "L",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "Brighton & Hove Albion": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "D",
+      "L",
+      "D",
+      "W",
+      "D",
+      "L",
+      "L",
+      "D",
+      "D",
+      "D",
+      "L",
+      "D",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "D",
+      "D",
+      "L",
+      "W",
+      "L",
+      "D",
+      "W",
+      "L"
+    ],
+    "Burnley": [
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "D",
+      "W",
+      "L",
+      "D",
+      "W",
+      "D",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W",
+      "D",
+      "D",
+      "L",
+      "D",
+      "D",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L"
+    ],
+    "Chelsea": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "L",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "L"
+    ],
+    "Crystal Palace": [
+      "W",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "D",
+      "D",
+      "L",
+      "L",
+      "D",
+      "W",
+      "D",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "D",
+      "D",
+      "L",
+      "W",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L"
+    ],
+    "Everton": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "W",
+      "D",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "D",
+      "D",
+      "D",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L"
+    ],
+    "Fulham": [
+      "L",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "D",
+      "D",
+      "D",
+      "D",
+      "L",
+      "L",
+      "D",
+      "D",
+      "L",
+      "D",
+      "W",
+      "D",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L"
+    ],
+    "Leeds United": [
+      "L",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W",
+      "W",
+      "W",
+      "D",
+      "D",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "Leicester City": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L",
+      "L"
+    ],
+    "Liverpool": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W",
+      "D",
+      "W",
+      "D",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "D",
+      "L",
+      "D",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "Manchester City": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "D",
+      "W",
+      "D",
+      "L",
+      "W",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "W",
+      "L",
+      "W",
+      "L",
+      "W"
+    ],
+    "Manchester United": [
+      "L",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "W",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "L",
+      "D",
+      "W",
+      "D",
+      "D",
+      "W",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "L",
+      "L",
+      "D",
+      "W"
+    ],
+    "Newcastle United": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "L",
+      "D",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "D",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "D",
+      "D",
+      "L",
+      "D",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "Sheffield United": [
+      "L",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "W"
+    ],
+    "Southampton": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "D",
+      "W",
+      "W",
+      "W",
+      "D",
+      "L",
+      "W",
+      "W",
+      "D",
+      "L",
+      "D",
+      "D",
+      "W",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "L",
+      "W",
+      "W",
+      "L",
+      "L"
+    ],
+    "Tottenham Hotspur": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "D",
+      "W",
+      "D",
+      "L",
+      "L",
+      "D",
+      "W",
+      "D",
+      "W",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "D",
+      "W",
+      "W",
+      "L",
+      "W",
+      "L",
+      "W"
+    ],
+    "West Bromwich Albion": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "D",
+      "D",
+      "L",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "L",
+      "D",
+      "L",
+      "L",
+      "W",
+      "L",
+      "L",
+      "D",
+      "L",
+      "L",
+      "D",
+      "D",
+      "W",
+      "L",
+      "D",
+      "L",
+      "W",
+      "W",
+      "L",
+      "D",
+      "D",
+      "L",
+      "L",
+      "L",
+      "L"
+    ],
+    "West Ham United": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "D",
+      "D",
+      "L",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "D",
+      "L",
+      "D",
+      "D",
+      "W",
+      "W",
+      "W",
+      "W",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "L",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "W",
+      "W"
+    ],
+    "Wolverhampton": [
+      "W",
+      "L",
+      "L",
+      "W",
+      "W",
+      "D",
+      "W",
+      "L",
+      "D",
+      "W",
+      "L",
+      "L",
+      "W",
+      "L",
+      "D",
+      "L",
+      "D",
+      "L",
+      "L",
+      "D",
+      "L",
+      "W",
+      "D",
+      "W",
+      "W",
+      "D",
+      "L",
+      "D",
+      "L",
+      "L",
+      "W",
+      "W",
+      "L",
+      "D",
+      "W",
+      "L",
+      "L",
+      "L"
+    ]
+  },
+  "matches": {
+    "Arsenal": [
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "4-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "2-0"
+      }
+    ],
+    "Aston Villa": [
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "7-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-4"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "2-1"
+      }
+    ],
+    "Brighton & Hove Albion": [
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-4"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "0-2"
+      }
+    ],
+    "Burnley": [
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "2-4"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-5"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "4-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "0-1"
+      }
+    ],
+    "Chelsea": [
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "1-2"
+      }
+    ],
+    "Crystal Palace": [
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "5-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-7"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-4"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "0-2"
+      }
+    ],
+    "Everton": [
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "5-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "4-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-5"
+      }
+    ],
+    "Fulham": [
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "3-4"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "0-2"
+      }
+    ],
+    "Leeds United": [
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "3-4"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "4-3"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "5-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "2-6"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "5-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "2-4"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "3-1"
+      }
+    ],
+    "Leicester City": [
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "4-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "5-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "5-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "2-4"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-4"
+      }
+    ],
+    "Liverpool": [
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "4-3"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-7"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "7-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "4-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "2-0"
+      }
+    ],
+    "Manchester City": [
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "5-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "5-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "5-2"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "4-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "5-0"
+      }
+    ],
+    "Manchester United": [
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "1-6"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "6-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "9-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "2-4"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "2-1"
+      }
+    ],
+    "Newcastle United": [
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "4-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "3-4"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "2-0"
+      }
+    ],
+    "Sheffield United": [
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "1-4"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-5"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "1-0"
+      }
+    ],
+    "Southampton": [
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "4-3"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-9"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-3"
+      }
+    ],
+    "Tottenham Hotspur": [
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "5-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "6-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "4-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "4-2"
+      }
+    ],
+    "West Bromwich Albion": [
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "2-5"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-5"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "0-5"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "0-5"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "5-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-3"
+      }
+    ],
+    "West Ham United": [
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "H",
+        "score": "4-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-3"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "2-2"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "3-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Wolverhampton",
+        "venue": "A",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "3-2"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "3-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "3-0"
+      }
+    ],
+    "Wolverhampton": [
+      {
+        "opponent": "Sheffield United",
+        "venue": "A",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "H",
+        "score": "1-3"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "H",
+        "score": "2-0"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "A",
+        "score": "0-4"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "A",
+        "score": "1-2"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "H",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "A",
+        "score": "3-3"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "H",
+        "score": "1-2"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Chelsea",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Crystal Palace",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Arsenal",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leicester City",
+        "venue": "H",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Southampton",
+        "venue": "A",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Leeds United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Newcastle United",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Manchester City",
+        "venue": "A",
+        "score": "1-4"
+      },
+      {
+        "opponent": "Aston Villa",
+        "venue": "A",
+        "score": "0-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "venue": "H",
+        "score": "0-1"
+      },
+      {
+        "opponent": "West Ham United",
+        "venue": "H",
+        "score": "2-3"
+      },
+      {
+        "opponent": "Fulham",
+        "venue": "A",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Sheffield United",
+        "venue": "H",
+        "score": "1-0"
+      },
+      {
+        "opponent": "Burnley",
+        "venue": "H",
+        "score": "0-4"
+      },
+      {
+        "opponent": "West Bromwich Albion",
+        "venue": "A",
+        "score": "1-1"
+      },
+      {
+        "opponent": "Brighton & Hove Albion",
+        "venue": "H",
+        "score": "2-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "venue": "A",
+        "score": "0-2"
+      },
+      {
+        "opponent": "Everton",
+        "venue": "A",
+        "score": "0-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "venue": "H",
+        "score": "1-2"
+      }
+    ]
+  }
+}
